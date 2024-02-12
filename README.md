@@ -18,4 +18,4 @@ Once in the container navigate to the dagmc-basics directory and the project sho
 
     cd /opt/dagmc-basics/
 
-To visualise outputs with paraview will need to get output files onto local system (https://docs.docker.com/storage/volumes/ or https://docs.docker.com/engine/reference/commandline/container_cp/). Or alternatively setup x11 forwarding for your container but I dont know how to do that.
+To visualise outputs with paraview you will need to get output files onto local system (https://docs.docker.com/storage/volumes/ or https://docs.docker.com/engine/reference/commandline/container_cp/). Or alternatively setup x11 forwarding for your container but I dont know how to do that.

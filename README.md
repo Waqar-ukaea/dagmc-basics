@@ -12,7 +12,7 @@ If you wish to use a docker container, the image should be pulled with:
 
 And an interactive container created with: 
 
-    docker run -it waqar1711/dagmc-dependencies bash
+    docker run -it waqar1711/dagmc-dependencies
 
 Once in the container navigate to the dagmc-basics directory and the project should already be linked and compiled with DAGMC
 

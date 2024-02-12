@@ -6,7 +6,7 @@ Super basic introduction for getting started with DAGMC for particle tracking. A
 - `Dockerfile` --> The Dockerfile used to create the docker image with the DAGMC dependencies. 
 - `CMakeLists.txt` basic cmake config to link to DAGMC
 
-If you wish to use a docker container, the image should be pulled with: 
+If you want to use a docker container, the image should be pulled with: 
 
     docker pull waqar1711/dagmc-dependencies
 
